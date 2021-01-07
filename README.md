@@ -44,5 +44,5 @@ python bot.py
 - For FeedBack and Suggestions, please feel free to say in [@InFoTelGroup](https://telegram.dog/InFoTelGroup)
 
 #### LICENSE
-- GPLv3
+- GPLv
 
